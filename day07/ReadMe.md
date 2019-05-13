@@ -24,3 +24,8 @@ alias lc="clear; ls"
  hoặc
  code .
  ```
+
+ # Bài tập về nhà 
+ ## 01: Viết ứng dụng sử dụng struct so sánh với class
+
+ ## 02: Viết mã hóa cipher
